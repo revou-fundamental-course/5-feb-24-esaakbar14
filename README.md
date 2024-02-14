@@ -1,4 +1,4 @@
-#Mini Project RevoU
+**#Mini Project RevoU**
 Create Simple Temperature Calculator Website
 
 With the following features:
